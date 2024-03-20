@@ -1,0 +1,41 @@
+html{
+    background-image: url(https://newsinhealth.nih.gov/sites/nihNIH/files/styles/featured_media_breakpoint-large/public/2023/August/aug-2023-cover-illustration-different-types-foods-five-food-groups-vegetables-fruits-dairy-products-oils-proteins.jpg?itok=1I_7PRfJ);
+   
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+    background-color: lightgreen;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+    margin: 20px;
+    
+    
+}
+
+a {
+    
+    
+    color: blue;
+    font-size: 36px;
+    background-color: white;
+    
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
