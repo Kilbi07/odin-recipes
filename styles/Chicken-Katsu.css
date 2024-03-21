@@ -1,0 +1,43 @@
+html{
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    
+}
+
+h2{
+    
+    font-size: 28px;
+
+}
+
+h3{
+   font-size: 24px; 
+}
+
+.heading{
+    text-align: center;
+    color: brown;
+    background-color: burlywood;
+}
+
+p{
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 700px;
+}
+
+ol, ul{
+    font-size: 18px;
+}
