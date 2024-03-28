@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     font-size: 56px;
     background-color: lightgreen;
+    border: 2px solid black;
 
 }
 
@@ -28,6 +29,8 @@ a {
     color: blue;
     font-size: 36px;
     background-color: white;
+    border: 2px solid black;
+    padding: 5px;
     
     
 }
@@ -38,4 +41,5 @@ a {
     margin-right: auto;
     height: auto;
     width: 500px;
+    border: 2px solid black;
 }
